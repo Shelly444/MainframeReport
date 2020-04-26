@@ -1,0 +1,12 @@
+C:\Users\miche\Documents\Semester 4\MAFD\group\group\bin\x86\Debug\group.exe
+C:\Users\miche\Documents\Semester 4\MAFD\group\group\bin\x86\Debug\Program1.idy
+C:\Users\miche\Documents\Semester 4\MAFD\group\group\obj\x86\Debug\Program1.idy
+C:\Users\miche\Documents\Semester 4\MAFD\group\group\obj\x86\Debug\group.exe
+C:\Users\Doyle\Documents\COBOL\group\group\group\bin\x86\Debug\group.exe
+C:\Users\Doyle\Documents\COBOL\group\group\group\bin\x86\Debug\Program1.idy
+C:\Users\Doyle\Documents\COBOL\group\group\group\obj\x86\Debug\Program1.idy
+C:\Users\Doyle\Documents\COBOL\group\group\group\obj\x86\Debug\group.exe
+C:\Users\Dylon\Downloads\group\group\bin\x86\Debug\group.exe
+C:\Users\Dylon\Downloads\group\group\bin\x86\Debug\Program1.idy
+C:\Users\Dylon\Downloads\group\group\obj\x86\Debug\Program1.idy
+C:\Users\Dylon\Downloads\group\group\obj\x86\Debug\group.exe

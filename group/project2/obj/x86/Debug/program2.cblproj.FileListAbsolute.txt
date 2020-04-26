@@ -1,0 +1,16 @@
+C:\Users\Doyle\Documents\COBOL\group\group\project2\bin\x86\Debug\project2.exe
+C:\Users\Doyle\Documents\COBOL\group\group\project2\bin\x86\Debug\Program2.idy
+C:\Users\Doyle\Documents\COBOL\group\group\project2\obj\x86\Debug\Program2.idy
+C:\Users\Doyle\Documents\COBOL\group\group\project2\obj\x86\Debug\project2.exe
+C:\Users\miche\Documents\Semester 4\MAFD\group\project2\bin\x86\Debug\project2.exe
+C:\Users\miche\Documents\Semester 4\MAFD\group\project2\bin\x86\Debug\Program2.idy
+C:\Users\miche\Documents\Semester 4\MAFD\group\project2\obj\x86\Debug\Program2.idy
+C:\Users\miche\Documents\Semester 4\MAFD\group\project2\obj\x86\Debug\project2.exe
+C:\Users\Doyle\Desktop\group\project2\bin\x86\Debug\project2.exe
+C:\Users\Doyle\Desktop\group\project2\bin\x86\Debug\Program2.idy
+C:\Users\Doyle\Desktop\group\project2\obj\x86\Debug\Program2.idy
+C:\Users\Doyle\Desktop\group\project2\obj\x86\Debug\project2.exe
+C:\Users\Dylon\Documents\group\project2\bin\x86\Debug\project2.exe
+C:\Users\Dylon\Documents\group\project2\bin\x86\Debug\Program2.idy
+C:\Users\Dylon\Documents\group\project2\obj\x86\Debug\Program2.idy
+C:\Users\Dylon\Documents\group\project2\obj\x86\Debug\project2.exe

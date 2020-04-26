@@ -1,0 +1,109 @@
+
+     190414     14165764                                   Final Project
+***********************************************************************************
+              ERROR REPORT                Page Count:  1
+***********************************************************************************
+
+REC #            RAW data (with spaces)                        Error Type
++---+  +---------------------------------------+    +----------------------------+  6    S 0002000 CA 01 XA-600005                    *Invoice Alphabetic*
+                                                    *SKU Code*
+  7    S 0014999 CR 01 AA-700006 247R20EHF02EF8E    *Invoice Alphabetic Duplicate*
+  9    S 0001000 CA 01 EB-900008 SDFSKJ84MS09123    *Invoice Range*
+ 14    S 0000999 CR 01 EB-1500A3 WI8HRW8H43FJSHF    *Invoice Number Format*
+ 23    S 0001000 CA 01 AA-240108 SDFSKJ84MS09123    *Invoice Alphabetic Duplicate*
+ 24    S 0012999 DB 01 DZ-250109 247R20EHF02EF8E    *Invoice Alphabetic*
+ 30    R 0002499 CR 02 EB-310212                    *SKU Code*
+ 31    R 0002000 CA 02 BB-320015 SDFSKJ84MS09123    *Invoice Alphabetic Duplicate*
+ 34    S 000100X CW 02 BA-350001 AADFSKJ84MS0913    *Amount Numeric*
+                                                    *Payment Type*
+ 44    S 0008999 CR 02 BC-0S0030 WI8HRW8H43FJSHF    *Invoice Number Format*
+                                                    *Invoice Range*
+ 45    S 0001000 CA 02 BB-460031 SDFSKJ84MS09123    *Invoice Alphabetic Duplicate*
+
+***********************************************************************************
+              ERROR REPORT                Page Count:  2
+***********************************************************************************
+
+REC #            RAW data (with spaces)                        Error Type
++---+  +---------------------------------------+    +----------------------------+ 47    X 000099X CR 02 CA-480033 WI8HRW8H43FJSHF    *Transaction Code*
+                                                    *Amount Numeric*
+ 49    R 0012499 CR 02 CD-500122                    *SKU Code*
+ 51    X 0014999 CR 02 DA-520036 247R20EHF02EF8E    *Transaction Code*
+ 52    S 0002999 DW 02 DB-530037 WI8HRW8H43FJSH2    *Payment Type*
+ 54    R 0002499 CR 02 DE-550212                    *SKU Code*
+ 57    S 0002999 DW 02 EC-580217 WI8HRW8H43FJSHF    *Payment Type*
+ 59    X 0012999 DB 02 AB-600219 247R20EHF02EF8E    *Transaction Code*
+ 63    S 0002000 CA 02 ET-640225 SDFSKJ84MS09123    *Invoice Alphabetic*
+ 64    S 0014999 CR 02 EE-650226 247R20EHF02EF8E    *Invoice Alphabetic Duplicate*
+ 72    L 0014999 DB 12 CC-730234 LFW8H88W84HFW4F    *Invoice Alphabetic Duplicate*
+ 74    R 0002999 CW 02 CE-750335 SDFSKJ84MS09123    *Payment Type*
+
+***********************************************************************************
+              ERROR REPORT                Page Count:  3
+***********************************************************************************
+
+REC #            RAW data (with spaces)                        Error Type
++---+  +---------------------------------------+    +----------------------------+ 75    C 0014999 CR 02 DA-760336 247R20EHF02EF8E    *Transaction Code*
+ 81    R 0002499 CR 13 EC-810402 FLW8H4FW8H4FWF4    *Store Number*
+ 85    S 0001000 CA 13 AD-850408 SDFSKJ84MS09123    *Store Number*
+ 87    S 0008999 CR 03 AA-870410 WI8HRW8H43FJSHF    *Invoice Alphabetic Duplicate*
+ 90    S 0000999 CR 03 EA-900413 WI8HRW8H43FJSHF    *Invoice Range*
+ 91    L 0001000 CA 03 GB-910401 SDFSKJ84MS09123    *Invoice Alphabetic*
+                                                    *Invoice Range*
+ 92    S 0012999 DB 03 CC-920402 247R20EHF02EF8E    *Invoice Alphabetic Duplicate*
+                                                    *Invoice Range*
+ 93    S 0008999 CR 03 ED-930403 WI8HRW8H43FJSHF    *Invoice Range*
+ 94    L 0004999 DB 03 AB-940404 LFW8H88W84HFW4F    *Invoice Range*
+ 95    R 0002499 CR 03 AC-950402 FLW8H4FW8H4FWF4    *Invoice Range*
+ 96    S 0002000 CA 04 AD-960405 SDFSKJ84MS09123    *Invoice Range*
+
+***********************************************************************************
+              ERROR REPORT                Page Count:  4
+***********************************************************************************
+
+REC #            RAW data (with spaces)                        Error Type
++---+  +---------------------------------------+    +----------------------------+ 97    S 001X999 CR 17 AE-970406 247R20EHF02EF8E    *Amount Numeric*
+                                                    *Store Number*
+                                                    *Invoice Range*
+ 98    R 0002999 DB 04 BA-98S407 WI8HRW8H43FJSHF    *Invoice Number Format*
+                                                    *Invoice Range*
+ 99    S 0001000 CA 04 CC-99S508 SDFSKJ84MS09123    *Invoice Number Format*
+                                                    *Invoice Alphabetic Duplicate*
+                                                    *Invoice Range*
+106    R 0002499 CR 04 DB-106512                    *SKU Code*
+110    S 007100X CW 05 EC-110501 AADFSKJ84MS0913    *Amount Numeric*
+                                                    *Payment Type*
+113    L 0004999 DB 05 DD-113524 LFW8H88W84HFW4F    *Invoice Alphabetic Duplicate*
+123    S 000099X CR 12 DC-123633 WI8HRW8H43FJSHF    *Amount Numeric*
+125    R 0012499 CX 14 EE-125722                    *Payment Type*
+                                                    *Store Number*
+                                                    *Invoice Alphabetic Duplicate*
+                                                    *SKU Code*
+127    X 0014999 CR 12 EB-127636 247R20EHF02EF8E    *Transaction Code*
+128    S 0002999 DW 12 EA-128637 WI8HRW8H43FJSH2    *Payment Type*
+131    R 0002400 CA 12 AD-131S15 SDFSKJ84MS09123    *Invoice Number Format*
+
+***********************************************************************************
+              ERROR REPORT                Page Count:  5
+***********************************************************************************
+
+REC #            RAW data (with spaces)                        Error Type
++---+  +---------------------------------------+    +----------------------------+133    S 0002999 DW 01 BA-133617 WI8HRW8H43FJSHF    *Payment Type*
+135    W 0012999 DB 03 BD-135619 247R20EHF02EF8E    *Transaction Code*
+136    S 0008999 CR 04 BB-136623 WI8HRW8H43FJSHF    *Invoice Alphabetic Duplicate*
+143    S 0012999 DB 05 DD-143629 247R20EHF02EF8E    *Invoice Alphabetic Duplicate*
+149    R 0000499 CR 05 AC-1496N2 F4WO8JFO8W4JFW8    *Invoice Number Format*
+150    R 0002999 CW 12 AD-150635 SDFSKJ84MS09123    *Payment Type*
+151    X 0014999 CR 71 AE-151636 247R20EHF02EF8E    *Transaction Code*
+                                                    *Store Number*
+152    S 0002999 DB 08 AB-152637 WI8HRW8H43FJSH2    *Store Number*
+
+***********************************************************************************
+      G  R  A  N  D      T  O  T  A  L  S
+***********************************************************************************
+
+     Total Type             Total Amount
++------------------+        +----------+
+Records:                        152
+Good Records:                   100
+Records With Errors:             52

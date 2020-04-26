@@ -1,0 +1,46 @@
+
+     190418     14023144                       Group 4 - Final Project - #4***********************************************************************************
+
+Rec#  Amount  P-Type Store#     Inovice       Sku Number           Tax+--+  +----+   +--+   +--+     +-------+    +-------------+      +------+
+ R    $24.99    CR     01      BD-500102    FLW8H4FW8H4FWF4        $3.24
+ R    $24.99    CR     01      BC-200102    FLW8H4FW8H4FWF4        $3.24
+ R    $29.99    DB     01      EB-230107    WI8HRW8H43FJSHF        $3.89
+ R    $89.99    CR     01      EA-260110    WI8HRW8H43FJSHF       $11.69
+ R    $24.99    CR     02      AE-390102    FLW8H4FW8H4FWF4        $3.24
+ R    $29.99    CA     02      CE-510035    SDFSKJ84MS09123        $3.89
+ R    $20.00    CA     02      EA-560215    SDFSKJ84MS09123        $2.60
+ R    $24.99    CR     02      AE-630202    FLW8H4FW8H4FWF4        $3.24
+ R   $124.99    CR     02      CD-740322    F4WO8JFO8W4JFW8       $16.24
+ R    $89.99    CR     04      BE-101510    WI8HRW8H43FJSHF       $11.69
+ R    $20.00    CA     04      DC-107515    SDFSKJ84MS09123        $2.60
+ R    $24.99    CR     05      DC-114502    FLW8H4FW8H4FWF4        $3.24
+ R    $29.99    CA     12      EC-126635    SDFSKJ84MS09123        $3.89
+ R    $24.99    CR     12      AC-130612    ASEDRFT987KIMYT        $3.24
+ R    $24.99    CR     12      CB-138602    FLW8H4FW8H4FWF4        $3.24
+***********************************************************************************
+***********************************************************************************
+   Return Transaction Records Total             REC#
++----------------------------------------------+ +-+
+Return Transaction Records Total Store 1:         4
+Return Transaction Records Total Store 2:         5
+Return Transaction Records Total Store 3:         0
+Return Transaction Records Total Store 4:         2
+Return Transaction Records Total Store 5:         1
+Return Transaction Records Total Store 12:        3
+***********************************************************************************
+***********************************************************************************
+  Returns Transaction per Store        Amount
++-------------------------------+    +--------+
+Return Transaction Total Store 1:       $169.96
+Return Transaction Total Store 2:       $224.96
+Return Transaction Total Store 3:         $0.00
+Return Transaction Total Store 4:       $109.99
+Return Transaction Total Store 5:        $24.99
+Return Transaction Total Store 12:       $79.97
+***********************************************************************************
+***********************************************************************************
+    Total Type                       Amount
++-----------------+                +--------+
+Total R:                               15
+Total R Amount:                     $609.87
+Total Tax Amount:                    $79.17
